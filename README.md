@@ -1,7 +1,7 @@
 <h1 align="center" style="color: blue;">¡Juego del Amigo Secreto!</h1>
 
 ![Amigo secreto 1](https://github.com/user-attachments/assets/7a216a05-da76-4406-8941-0561dc96a807)
-![Badge Finalizado](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 El juego del amigo secreto es un proyecto realizado para poner en práctica los conocimientos adquiridos durante los cursos de lógica de programación de Alura LATAM
 que consiste en introducir nombres de amigos para crear una lista y posteriormente realizar un sorteo para elegir a uno de los nombres agregados a la lista.
