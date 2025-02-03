@@ -17,11 +17,11 @@ que consiste en introducir nombres de amigos para crear una lista y posteriormen
 
 ## 🎲 __Instrucciones del juego__
 - Ingresar el nombre de mínimo dos amigos. En caso de ingresar menos nombres y dar clic en el botón de Sortear Amigo aparece la siguiente alerga.
-  ![image](https://github.com/user-attachments/assets/c7a8c7f5-87c3-4677-b5af-a1604ec5aef0)
+![image](https://github.com/user-attachments/assets/c7a8c7f5-87c3-4677-b5af-a1604ec5aef0)
 - El botón de Agregar amigo añade el nombre escrito en la caja de texto a un Array.
-- - Los nombres escritos aparecen en una lista debajo de la caja de texto.
-- ![image](https://github.com/user-attachments/assets/cbeee359-3854-4a3a-9ebb-996dd514fe97)
+- Los nombres escritos aparecen en una lista debajo de la caja de texto.
+![image](https://github.com/user-attachments/assets/cbeee359-3854-4a3a-9ebb-996dd514fe97)
 - Selección del amigo sorteado al dar clic en el botón Sortear Amigo.
-- ![image](https://github.com/user-attachments/assets/34810cd3-8162-4cba-83d2-5afa14273257)
+![image](https://github.com/user-attachments/assets/34810cd3-8162-4cba-83d2-5afa14273257)
 
 <h1 align="center" style="color: blue;">Disfruta el juego</h1>
